@@ -2,7 +2,7 @@
 
 | Participant ID | Organization | CFD Solver | Icing Solver | Name(s) |
 |:---:|:---:|:---:|:---:|:---:|
-| 001 |  |  |  |  |
+| 001 | CIRA | SIMBA_FLOW | SIMBA_ICE | Francesco Capizzano, Andrea Conte |
 | 002 |  AeroTex GmbH|  OpenFOAM| IHB3D | Ariane Vieira |
 | 009 |  Sikorsky, A Lockheed Martin Company|  STAR-CCM+ (SIEMENS)| STAR-CCM+ (SIEMENS) | Jeewoong Kim |
 
