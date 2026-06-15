@@ -3,7 +3,8 @@
 | Participant ID | Organization | CFD Solver | Icing Solver | Name(s) |
 |:---:|:---:|:---:|:---:|:---:|
 | 001 | CIRA | SIMBA_FLOW | SIMBA_ICE | Francesco Capizzano, Andrea Conte |
-| 002 |  AeroTex GmbH|  OpenFOAM| IHB3D | Ariane Vieira |
+| 002 | AeroTex GmbH|  OpenFOAM| IHB3D | Ariane Vieira |
+| 003 | National Research Council Canada | Ansys Fluent | NRC Morphogenetic Model | Pete Forsyth
 | 008 |  Collins Aerospace |  Fluent 25R2| Drop3D / ICE3D 25R2 | Mateusz Pawlucki |
 | 009 |  Sikorsky, A Lockheed Martin Company|  STAR-CCM+ (SIEMENS)| STAR-CCM+ (SIEMENS) | Kim Jeewoong |
 
