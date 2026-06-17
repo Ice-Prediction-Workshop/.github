@@ -7,7 +7,7 @@
 | 003 | National Research Council Canada | Ansys Fluent | NRC Morphogenetic Model | Pete Forsyth
 | 004 | ONERA | Charme | Spiree (CEDRE Plateform) / IGLOO3D | Adèle Veilleux | 
 | 006 | DASSAULT AVIATION | In-house RANS | In-house Particle Trajectory solver/ IGLOO3D | François Caminade, Zach Gianiel |
-| 008 |  Collins Aerospace |  Fluent 25R2| Drop3D / ICE3D 25R2 | Mateusz Pawlucki |
+| 008 |  Collins Aerospace |  Ansys Fluent 25R2| Drop3D / ICE3D 25R2 | Mateusz Pawlucki |
 | 009 |  Sikorsky, A Lockheed Martin Company|  STAR-CCM+ (SIEMENS)| STAR-CCM+ (SIEMENS) | Kim Jeewoong |
 | 010 | NASA | FUN3D | GlennICE | Thomas Ozoroski |
 | 013 | Boeing | CFD++ | GlennICE | Adam Malone, Soroush Yazdani|
