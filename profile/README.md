@@ -16,6 +16,7 @@
 | 014 | Airbus Commercial Aircraft | CODA | IGLOO3D | Alberto Della Noce |
 | 015 | National institute for Aviation Research | Ansys Fluent | Ansys Fensap | Harsh Shah |
 | 016 | Gulfstream | USM3D / Ansys Fluent |Lewice3D / Ansys Fensap | Gregory Gathy|
+| 023 | University of Waterloo | FENSAP-ICE | FENSAP-ICE | Li-Hsin Chen |
 
 
 For participation inquiries, please contact us at [mohamad-karim.zayni@etud.polymtl.ca](mailto:mohamad-karim.zayni@etud.polymtl.ca).
