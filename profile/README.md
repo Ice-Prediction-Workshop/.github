@@ -1,5 +1,9 @@
 # Welcome to the AIAA Ice Prediction Workshop GitHub Repository
 
+<p align="center">
+  <img width="650" src="https://img.shields.io/badge/UPDATED%20DEADLINE-July%2015%2C%202026-red?style=for-the-badge" alt="Updated deadline: July 15, 2026">
+</p>
+
 | Participant ID | Organization | CFD Solver | Icing Solver | Name(s) |
 |:---:|:---:|:---:|:---:|:---:|
 | 001 | CIRA | SIMBA_FLOW | SIMBA_ICE | Francesco Capizzano, Andrea Conte |
