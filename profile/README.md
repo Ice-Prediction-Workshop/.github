@@ -1,6 +1,6 @@
 # License
 
-The Ice Prediction Workshop materials are licensed under the
+The Ice Prediction Workshop **materials** and **all repositories** are licensed under the
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 See: https://creativecommons.org/licenses/by-nc-nd/4.0/
