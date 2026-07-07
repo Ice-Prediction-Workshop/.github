@@ -18,7 +18,7 @@ See: https://creativecommons.org/licenses/by-nc-nd/4.0/
 | 001 | CIRA | SIMBA_FLOW | SIMBA_ICE | Francesco Capizzano, Andrea Conte |
 | 002 | AeroTex GmbH|  OpenFOAM| IHB3D | Ariane Vieira |
 | 003 | National Research Council Canada | Ansys Fluent | NRC Morphogenetic Model | Pete Forsyth
-| 004 | ONERA | Charme | Spiree (CEDRE Plateform) / IGLOO3D | Adèle Veilleux | 
+| 004 | ONERA | Charme | Spiree (CEDRE Plateform) / IGLOO3D | Adèle Veilleux, Emmanuel Radenac | 
 | 005 | Oklahoma State University | Fun3D | GlennICE | Alyssa Avery | 
 | 006 | DASSAULT AVIATION | In-house RANS | In-house Particle Trajectory solver/ IGLOO3D | François Caminade, Zach Gianiel |
 | 008 |  Collins Aerospace |  Ansys Fluent 25R2| Drop3D / ICE3D 25R2 | Mateusz Pawlucki |
