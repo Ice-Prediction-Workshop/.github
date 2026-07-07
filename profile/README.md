@@ -34,6 +34,3 @@ See: https://creativecommons.org/licenses/by-nc-nd/4.0/
 | 019 | Synopsys | Fluent Icing| Fluent Icing | Isik Ozcer | 
 | 023 | University of Waterloo | FENSAP-ICE | FENSAP-ICE | Li-Hsin Chen |
 
-
-For participation inquiries, please contact us at [mohamad-karim.zayni@etud.polymtl.ca](mailto:mohamad-karim.zayni@etud.polymtl.ca).
-
